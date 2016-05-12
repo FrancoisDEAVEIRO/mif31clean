@@ -1,0 +1,1249 @@
+# depslib dependency file v1.0
+1460539393 source:d:\alex\src\grapic.git\apps\myprog\main_myprog.cpp
+	<Grapic.h>
+
+1460625552 d:\alex\src\grapic.git\src\grapic.h
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<vector>
+	<Grapic_func.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1460626616 d:\alex\src\grapic.git\src\grapic_func.h
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<thread>
+	<chrono>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\begin_code.h
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\close_code.h
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253593 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1460625670 source:d:\alex\src\grapic.git\src\grapic_func.cpp
+	<cassert>
+	<ctime>
+	<Grapic_func.h>
+	<Grapic.h>
+
+1376156543 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2_ttf-2.0.12\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156342 d:\alex\src\grapic.git\extern\sdl2_mingw\sdl2_image-2.0.0\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1460539305 source:d:\alex\src\grapic.git\apps\demo\main_demo.cpp
+	<Grapic.h>
+	<iostream>
+	<cmath>
+
+1460541061 source:d:\alex\src\grapic.git\src\grapic.cpp
+	<cassert>
+	<Grapic.h>
+	<cstdio>
+
+1460539305 source:d:\alex\src\grapic.git\apps\checkers\main_checkers.cpp
+	<Grapic.h>
+
+1460539305 source:d:\alex\src\grapic.git\apps\tetris\main_tetris.cpp
+	<Grapic.h>
+	<cmath>
+	<iostream>
+
+1460539305 source:d:\alex\src\grapic.git\apps\fluid\main_fluid.cpp
+	<cmath>
+	<float.h>
+	<Grapic.h>
+
+1460539305 source:d:\alex\src\grapic.git\apps\particles\main_particles.cpp
+	<Grapic.h>
+	<cmath>
+
+1449575268 source:d:\alex\src\grapic.git\apps\pacman\main_pacman.cpp
+	<Grapic.h>
+	<cmath>
+	<cassert>
+	<time.h>
+	"Jeu.h"
+
+1449575268 d:\alex\src\grapic.git\apps\pacman\jeu.h
+	"Pacman.h"
+	"Terrain.h"
+
+1449575268 d:\alex\src\grapic.git\apps\pacman\pacman.h
+	"Terrain.h"
+
+1449575268 d:\alex\src\grapic.git\apps\pacman\terrain.h
+
+1449575268 source:d:\alex\src\grapic.git\apps\pacman\pacman.cpp
+	"Pacman.h"
+
+1459456754 source:d:\alex\src\grapic.git\apps\pacman\jeu.cpp
+	"Jeu.h"
+	<stdlib.h>
+
+1459456793 source:d:\alex\src\grapic.git\apps\pacman\terrain.cpp
+	"Terrain.h"
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1460579058 source:d:\alex\src\grapic.git\apps\simpledrawing\main_simpledrawing.cpp
+	<Grapic.h>
+	<cmath>
+
+1460539305 source:d:\alex\src\grapic.git\apps\minesweeper\main_minesweeper.cpp
+	<Grapic.h>
+
+1460544661 source:c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\src\grapic.cpp
+	<cassert>
+	<Grapic.h>
+	<cstdio>
+
+1460629152 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\src\grapic.h
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<vector>
+	<Grapic_func.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1460630216 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\src\grapic_func.h
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<thread>
+	<chrono>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\begin_code.h
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\close_code.h
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376160143 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2_ttf-2.0.12\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376159942 c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\extern\sdl2_mingw\sdl2_image-2.0.0\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1460630802 source:c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\src\grapic_func.cpp
+	<cassert>
+	<ctime>
+	<Grapic_func.h>
+	<Grapic.h>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\apps\myprog\main_myprog.cpp
+	<Grapic.h>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\apps\demo\main_demo.cpp
+	<Grapic.h>
+	<iostream>
+	<cmath>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\apps\minesweeper\main_minesweeper.cpp
+	<Grapic.h>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\apps\checkers\main_checkers.cpp
+	<Grapic.h>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\apps\tetris\main_tetris.cpp
+	<Grapic.h>
+	<cmath>
+	<iostream>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\apps\fluid\main_fluid.cpp
+	<cmath>
+	<float.h>
+	<Grapic.h>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\grapic-0.2.38\apps\particles\main_particles.cpp
+	<Grapic.h>
+	<cmath>
+
+1462546983 source:c:\users\abib\documents\mif31 - généricité\projet\sdl\apps\myprog\main_myprog.cpp
+	"../../include/pavage.hpp"
+	"../../include/simplexe.hpp"
+	"../../include/createFile.hpp"
+	"../../include/reader.hpp"
+	<Grapic.h>
+	<string>
+
+1460629152 c:\users\abib\documents\mif31 - généricité\projet\sdl\src\grapic.h
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<vector>
+	<Grapic_func.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1460630216 c:\users\abib\documents\mif31 - généricité\projet\sdl\src\grapic_func.h
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<thread>
+	<chrono>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\begin_code.h
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\close_code.h
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257193 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2-2.0.3\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376160143 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2_ttf-2.0.12\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376159942 c:\users\abib\documents\mif31 - généricité\projet\sdl\extern\sdl2_mingw\sdl2_image-2.0.0\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1460544661 source:c:\users\abib\documents\mif31 - généricité\projet\sdl\src\grapic.cpp
+	<cassert>
+	<Grapic.h>
+	<cstdio>
+
+1460630802 source:c:\users\abib\documents\mif31 - généricité\projet\sdl\src\grapic_func.cpp
+	<cassert>
+	<ctime>
+	<Grapic_func.h>
+	<Grapic.h>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\sdl\apps\demo\main_demo.cpp
+	<Grapic.h>
+	<iostream>
+	<cmath>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\sdl\apps\minesweeper\main_minesweeper.cpp
+	<Grapic.h>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\sdl\apps\checkers\main_checkers.cpp
+	<Grapic.h>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\sdl\apps\tetris\main_tetris.cpp
+	<Grapic.h>
+	<cmath>
+	<iostream>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\sdl\apps\fluid\main_fluid.cpp
+	<cmath>
+	<float.h>
+	<Grapic.h>
+
+1460630851 source:c:\users\abib\documents\mif31 - généricité\projet\sdl\apps\particles\main_particles.cpp
+	<Grapic.h>
+	<cmath>
+
+1462548770 source:c:\users\abib\documents\mif31 - généricité\projet\sdl\tools\createfile.cpp
+	"../include/createFile.hpp"
+
+1462322708 c:\users\abib\documents\mif31 - généricité\projet\sdl\include\createfile.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"point.hpp"
+
+1462469140 c:\users\abib\documents\mif31 - généricité\projet\sdl\include\point.hpp
+	<iostream>
+	<vector>
+
+1462322708 source:c:\users\abib\documents\mif31 - généricité\projet\sdl\tools\formule.cpp
+	"../include/formule.hpp"
+
+1462546798 c:\users\abib\documents\mif31 - généricité\projet\sdl\include\formule.hpp
+	<math.h>
+	"point.hpp"
+
+1462322708 source:c:\users\abib\documents\mif31 - généricité\projet\sdl\tools\reader.cpp
+
+1462549205 c:\users\abib\documents\mif31 - généricité\projet\sdl\include\pavage.hpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<math.h>
+	"point.hpp"
+	"simplexe.hpp"
+	<Grapic.h>
+
+1462546758 c:\users\abib\documents\mif31 - généricité\projet\sdl\include\simplexe.hpp
+	<iostream>
+	<vector>
+	"point.hpp"
+	<Grapic.h>
+
+1462322708 c:\users\abib\documents\mif31 - généricité\projet\sdl\include\reader.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	"point.hpp"
+

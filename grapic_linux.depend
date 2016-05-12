@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1453364561 source:d:\alex\src\grapic.git\apps\myprog\main_myprog.cpp
+	<Grapic.h>
+
+1459407848 d:\alex\src\grapic.git\src\grapic.h
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<vector>
+	<Grapic_func.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1459407862 d:\alex\src\grapic.git\src\grapic_func.h
+	<cassert>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1459407831 source:d:\alex\src\grapic.git\src\grapic.cpp
+	<cassert>
+	<Grapic.h>
+	<cstdio>
+
+1453361936 source:d:\alex\src\grapic.git\src\grapic_func.cpp
+	<cassert>
+	<ctime>
+	<Grapic_func.h>
+	<Grapic.h>
+
+1453361936 source:d:\alex\src\grapic.git\apps\demo\main_demo.cpp
+	<Grapic.h>
+	<iostream>
+	<cmath>
+
+1453361936 source:d:\alex\src\grapic.git\apps\minesweeper\main_minesweeper.cpp
+	<Grapic.h>
+
